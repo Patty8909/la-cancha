@@ -1,0 +1,77 @@
+.cancha {
+    background-color: rgb(0, 200, 100);
+    width: 900px;
+    height: 600px;
+    margin: auto;
+    margin-top: 40px;
+}
+.margen {
+    background-color:rgb(0, 200, 100);
+    width: 850px;
+    height: 550px;
+    position: relative;
+    top: 1.5em;
+    left: 1.5em;
+    border: 10px white solid;
+    box-sizing: border-box;
+
+}
+.arco1 {
+    background-color:rgb(0, 200, 100);
+    width: 100px;
+    height: 200px;
+    position: absolute;
+    top: 10em;
+    border-top: 10px white solid;
+    border-right: 10px white solid;
+    border-bottom: 10px white solid;
+    box-sizing: border-box;
+    margin: auto;
+
+}
+.arco2 {
+    background-color:rgb(0, 200, 100);
+    width: 100px;
+    height: 200px;
+    position: relative;
+    left: 730px;
+    bottom: 40px;
+    border-top: 10px white solid;
+    border-left: 10px white solid;
+    border-bottom: 10px white solid;
+    box-sizing: border-box;
+
+}
+.circulo {
+    background-color:rgb(0, 200, 100);
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: 10em;
+    border: 10px white solid;
+    box-sizing: border-box;
+    margin: auto;
+    border-radius: 50%;
+}
+.ball {
+    width: 20px;
+    height: 20px;
+}
+
+.left {
+    position: absolute;
+    top: 300px;
+    left: 700px;
+}
+
+.center {
+    position: absolute;
+    top: 50px;
+    left: 350px;
+}
+
+.right {
+    position: absolute;
+    top: 150px;
+    left: 120px;
+}
